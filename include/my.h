@@ -18,6 +18,7 @@ void my_swap(int *a, int *b);
 int my_putstr(char const *str);
 int my_strlen(char const *str);
 int my_getnbr(char const *str);
+//NOT DONE YET
 void my_sort_int_array(int *array, int size);
 
 //Day05
