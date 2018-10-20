@@ -18,7 +18,6 @@ void my_swap(int *a, int *b);
 int my_putstr(char const *str);
 int my_strlen(char const *str);
 int my_getnbr(char const *str);
-//NOT DONE YET
 void my_sort_int_array(int *array, int size);
 
 //Day05
@@ -42,6 +41,7 @@ int my_str_isnum(char const *str);
 int my_str_islower(char const *str);
 int my_str_isupper(char const *str);
 int my_str_isprintable(char const *str);
+int my_putnbr_base(int nbr, char const *base);
 int my_showstr(char const *str);
 int my_showmem(char const *str, int size);
 
