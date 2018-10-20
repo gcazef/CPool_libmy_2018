@@ -1,0 +1,13 @@
+# HEADERS
+
+# SOURCES
+main.c
+
+# FOLDERS
+
+# TESTS
+
+# BINARIES
+a.out
+*.o
+libmy.a
