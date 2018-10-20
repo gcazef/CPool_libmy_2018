@@ -43,6 +43,7 @@ int my_str_isupper(char const *str);
 int my_str_isprintable(char const *str);
 int my_putnbr_base(int nbr, char const *base);
 int my_showstr(char const *str);
+//Not done yet
 int my_showmem(char const *str, int size);
 
 //Day07
