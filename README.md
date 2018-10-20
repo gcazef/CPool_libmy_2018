@@ -4,7 +4,7 @@ Final C library from Epitech CPool
 ## Description
 Personnal version of the standard C library.
 
-Use Makefile to compile the library ad "libmy.a".
+Use Makefile to compile the library as "libmy.a".
 
 The library can be used with the command : 
 ```bash
